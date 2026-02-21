@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "446274561059",
+    "firebase_url": "https://amine-6cceb-default-rtdb.firebaseio.com",
+    "project_id": "amine-6cceb",
+    "storage_bucket": "amine-6cceb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446274561059:android:fc70f6366018017f87bd96",
+        "android_client_info": {
+          "package_name": "ma.projet.tp10_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBhosl6Yy8tgMGdTPeeiGHcu8EKYWPORU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
